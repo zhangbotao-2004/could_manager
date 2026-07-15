@@ -105,6 +105,6 @@ python3 modules/ec2_manager.py mock
 
 ## 后续计划
 
-- [ ] 支持命令行参数（如 `--nginx-status`）
-- [ ] 添加日志记录功能
-- [ ] 支持真实 AWS 环境
+支持命令行参数（如 `--nginx-status`）
+添加日志记录功能
+支持真实 AWS 环境
